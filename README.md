@@ -1,6 +1,7 @@
 - 👋 Hi world, I’m @N1colasFD
 -
-- 👀 I’m interested in ... Learn Machine learning / Java and others 
+- 👀 I’m interested in ... business analitic
+                              -Learn Machine learning / Python and others 
 - 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ... everyyone
 - 📫 How to reach me ... nicolasfajardodaza@gmail.com
