@@ -1,9 +1,17 @@
-  -                                           <h1> 👋 Hello world, I’m @N1colasFD </h1>
+-                                        👋 Hello world, I’m @N1colasFD 
+-                                     👀 Data Science & Bussines Analytic 💭 
+                                            Machine learning / Python
+-                 Científico de datos con orientación al mundo empresarial y negocios en general 
+                para la resolución de problemas y generación de propuestas mediante la analítica de datos.
 
-- <p style="color: black; font-family: Verdana;">- 👀 Data Science & Bussines Analytic 💭 </p>
-                              -Learn Machine learning / Python and others 
-- 🌱 I’m currently learning ... python 
-- 💞️ I’m looking to collaborate on ... everyyone
+
+Data Science
+
+● Python  
+● Machine Learning
+● Estadística
+● Sql
+● Tableau
 - 📫 How to reach me ... nicolasfajardodaza@gmail.com
 
 
