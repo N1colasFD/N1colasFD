@@ -1,12 +1,11 @@
 -                                        👋 Hello world, I’m @N1colasFD 
--                                     👀 Data Science & Bussines Analytic 💭 
+                                      👀 Data Science & Bussines Analytic 💭 
                                             Machine learning / Python
--                 Científico de datos con orientación al mundo empresarial y negocios en general 
+                 Analista de datos con orientación al mundo empresarial y negocios en general 
                 para la resolución de problemas y generación de propuestas mediante la analítica de datos.
 
 
 Data Science
-
 ● Python  
 ● Machine Learning
 ● Estadística
