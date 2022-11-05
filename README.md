@@ -9,7 +9,6 @@ Data Science
 ● Python  
 ● Machine Learning
 ● Estadística
-● Sql
 ● Tableau
 - 📫 How to reach me ... nicolasfajardodaza@gmail.com
 
