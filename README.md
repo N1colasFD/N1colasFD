@@ -5,7 +5,8 @@
                 para la resolución de problemas y generación de propuestas mediante la analítica de datos.
 
 
-Data Science
+Data Science and Data Engineer Jr 
+
 ● Python  
 ● Google cloud
 ● Machine Learning
