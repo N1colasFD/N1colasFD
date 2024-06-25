@@ -1,15 +1,16 @@
 -                                        👋 Hello world, I’m @N1colasFD 
                                       👀 Data Science & Bussines Analytic 💭 
                                             Machine learning / Python
-                 Analista de datos con orientación al mundo empresarial y negocios en general 
+                 Data Science con orientación al mundo empresarial y negocios en general 
                 para la resolución de problemas y generación de propuestas mediante la analítica de datos.
 
 
 Data Science
 ● Python  
+● Google cloud
 ● Machine Learning
 ● Estadística
-● Tableau
+● PöstgreSQL
 - 📫 How to reach me ... nicolasfajardodaza@gmail.com
 
 
