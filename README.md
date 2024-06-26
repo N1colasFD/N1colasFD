@@ -36,7 +36,7 @@ Data Scientist con orientación al mundo empresarial y negocios en general con d
 - **Proyecto CNE**: Visualización de datos financieros en Metabase.
 
 ##### Linktic (NOV-2023 - JUN-2024-Actualidad)
-- **Proyecto POSITIVA SGDA**: Proceso ETL de migración de datos a GCP automatizado con Python y PostgreSQL con sistema de versionamiento en Azure DEV OPs y Github..
+- **Proyecto POSITIVA SGDA**: Proceso ETL de migración de datos a GCP [80 Terabites] automatizado con Python y PostgreSQL con sistema de versionamiento en Azure DEV OPs, Github he indexado en Apache Solr usando un entorno Linux..
 
 ##### Proyectos Freelance
 - **Redes Neuronales**: Diseño y construcción de redes neuronales densas.
