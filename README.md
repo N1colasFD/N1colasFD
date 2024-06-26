@@ -49,7 +49,7 @@ Data Scientist con orientación al mundo empresarial y negocios en general con d
 ### 📫 Contacto:
 - **Email**: [nicolasfajardodaza@gmail.com](mailto:nicolasfajardodaza@gmail.com)
 - **LinkedIn**: [Nicolás Fajardo Daza](https://www.linkedin.com/in/nicolasfajardodaza/)
-- **Teléfono**: +57 305 706 20 44
+- **Teléfono**: 
 
 ---
 
