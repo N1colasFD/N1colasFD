@@ -57,7 +57,7 @@ Data Scientist con orientación al mundo empresarial y negocios en general con d
 Apasionado por la ciencia de datos y su aplicación en el mundo empresarial. Disfruto de los retos que implican transformar grandes volúmenes de datos en información útil para la toma de decisiones. Actualmente, lidero un proyecto de migración de datos en el sector asegurador, trabajando con tecnologías avanzadas y metodologías ágiles.
 
 
-### 🌟 Acerca de Mí:
+#### 🌟 Acerca de Mí:
 Soy un entusiasta de la ciencia de datos, siempre en busca de nuevas maneras de transformar grandes volúmenes de datos en información valiosa para la toma de decisiones. Actualmente, estoy liderando un proyecto de migración de datos en el sector asegurador(ARL), aplicando tecnologías avanzadas y metodologías ágiles. Disfruto colaborar en proyectos que impulsen la eficiencia y el crecimiento de las organizaciones.
 ---
 
