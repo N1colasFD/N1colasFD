@@ -6,13 +6,13 @@
 
 ---
 
-Data Scientist con orientación al mundo empresarial y negocios en general con dos años de experiencia, enfocado en la resolución de problemas y generación de propuestas mediante la analítica de datos. Actualmente en formación como Ingeniero de Datos y liderando un proyecto de migración de datos para una gran compañía de seguros en Colombia.
+Data Scientist con orientación al mundo empresarial y negocios en general con dos años de experiencia, enfocado en la resolución de problemas y generación de propuestas mediante la analítica de datos. Actualmente en formación como Ingeniero de Datos en la nube ☁️ y liderando un proyecto de migración de datos para una gran compañía de seguros en Colombia.
 
 ---
 
 #### 🛠 Skills & Technologies:
 - **Python** 🐍
-- **Google Cloud** ☁️
+- **Google Cloud (\======> 30%)** ☁️
 - **Machine Learning** 🤖
 - **Estadística** 📊
 - **PostgreSQL** 🐘
