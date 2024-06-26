@@ -1,6 +1,6 @@
 -                                        👋 Hello world, I’m @N1colasFD 
                                       👀 Data Science & Bussines Analytic Enthusiast 🚀 
-                                    🧠  Machine learning / Python / Data Eginereering
+                                    🧠  Machine learning / Python / Data Eginereering JR
                            Data Science con orientación al mundo empresarial y negocios en general 
                 para la resolución de problemas y generación de propuestas mediante la analítica de datos.
 
