@@ -30,12 +30,12 @@ Data Scientist con orientación al mundo empresarial y negocios en general con d
 - **Seminario de Finanzas I: Finanzas Cuantitativas con Python** - Optimización de portafolios financieros
 
 #### 🏢 Experiencia Profesional:
-##### WIMBU S.A.S (FEB-2023 - NOV-2023)
+##### Empresa 1 ------ (FEB-2023 - NOV-2023)
 - **Proyecto POSITIVA**: Transformación y análisis de datos para el sector de Recaudo y Cartera, desarrollo de modelos de Machine Learning.
 - **Proyecto POLITICA**: Análisis de sentimientos y estadísticas descriptivas basadas en datos de redes sociales.
 - **Proyecto CNE**: Visualización de datos financieros en Metabase.
 
-##### Linktic (NOV-2023 - JUN-2024-Actualidad)
+##### Empresa 2 ------ (NOV-2023 - JUN-2024-Actualidad)
 - **Proyecto POSITIVA SGDA**: Proceso ETL de migración de datos a GCP [80 Terabites] automatizado con Python y PostgreSQL con sistema de versionamiento en Azure DEV OPs, Github he indexado en Apache Solr usando un entorno Linux..
 
 ##### Proyectos Freelance
