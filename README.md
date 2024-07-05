@@ -76,13 +76,13 @@ Soy un apasionado de la ciencia de datos, siempre en busca de nuevas maneras de 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N1colasFD&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=N1colasFD&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1colasFD&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1colasFD&layout=compact&theme=merko" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1colasFD&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1colasFD&theme=merko" alt="Streak Stats" />
 </p>
 
 ---
