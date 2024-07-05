@@ -20,8 +20,8 @@ Data Scientist con orientación al mundo empresarial y negocios en general con d
 
 ---
 
-### 🎓 Formación Académica
-- **Ingeniería en Ciencia de Datos** - Universidad Compensar (2024 actualmente)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/> Formación Académica>
+- **Ingeniería en Ciencia de Datos** - Universidad Compensar (2024 actualmente) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/>
 - **Especialización en Analítica de Datos** - Politécnico Colombiano Jaime Isaza Cadavid (2023)
 - **Gestión y Producción de Cine y TV** - Universidad Manuela Beltrán
 
@@ -59,9 +59,8 @@ Data Scientist con orientación al mundo empresarial y negocios en general con d
 ---
 
 ### 📫 Contacto
-- **Email**: [nicolasfajardodaza@gmail.com](mailto:nicolasfajardodaza@gmail.com)
-- **LinkedIn**: [Nicolás Fajardo Daza](https://www.linkedin.com/in/nicolasfajardodaza/)
-
+- <img src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg" width="30" height="30"/> **Email**: [nicolasfajardodaza@gmail.com](mailto:nicolasfajardodaza@gmail.com)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" /> **LinkedIn**: [Nicolás Fajardo Daza](https://www.linkedin.com/in/nicolasfajardodaza/)
 ---
 
 ### 🌟 Acerca de Mí
