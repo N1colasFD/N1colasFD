@@ -75,21 +75,19 @@ Soy un apasionado de la ciencia de datos, siempre en busca de nuevas maneras de 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
+#### 📊 GitHub Stats
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=N1colasFD&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1colasFD&layout=compact&theme=merko" alt="Top Languages " />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1colasFD&theme=merko" alt="Streak Stats" />
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1colasFD&theme=radical" alt="Profile Summary" style="max-width: 100%;" />
-</p>
-
-👁️ Profile Views
 <p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1colasFD&theme=merko" alt="Streak Stats" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1colasFD&theme=radical" alt="Profile Summary" style="max-width: 150%;" />
+</p>
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=N1colasFD&color=blueviolet" alt="Profile Views" />
 </p>
 
