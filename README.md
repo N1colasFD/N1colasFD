@@ -17,6 +17,8 @@ Data Scientist con orientación al mundo empresarial y negocios en general con d
 ![Estadística](https://img.shields.io/badge/Estadística-%2300A9E0.svg?style=flat&logo=databricks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 ![Soft Skills](https://img.shields.io/badge/Soft%20Skills-%23FFD700.svg?style=flat)
+![Profile Views](https://hit.yhype.me/github/profile?user_id=107093919)
+
 
 ---
 
@@ -82,7 +84,15 @@ Soy un apasionado de la ciencia de datos, siempre en busca de nuevas maneras de 
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1colasFD&theme=merko" alt="Streak Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1colasFD&theme=radical" alt="Profile Summary" style="max-width: 100%;" />
 </p>
+
+👁️ Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=N1colasFD&color=blueviolet" alt="Profile Views" />
+</p>
+
 
 ---
 
