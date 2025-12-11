@@ -97,9 +97,7 @@ Some recent / ongoing cloud & AI learning:
 Here are a few repos that represent the kind of work I like to do:
 
 - 🔹 **[data_for_databrikcs](https://github.com/N1colasFD/data_for_databrikcs)** – Public datasets ready to use on Databricks for ML and analytics experiments.
-- 🔹 **[Unir_CODES](https://github.com/N1colasFD/Unir_CODES)** – Jupyter notebooks from my AI specialization: ML, NLP, optimization and more.
 - 🔹 **[Data_science_aplicada_reto_twitter](https://github.com/N1colasFD/Data_science_aplicada_reto_twitter)** – Data Science practice solving a Twitter/football challenge.
-- 🔹 **[calculo_proba_3ce_mestre](https://github.com/N1colasFD/calculo_proba_3ce_mestre)** – Probability & statistics applied to real datasets (third-semester final project).
 - 🔹 **[mixed-analytics-for-data-Science](https://github.com/N1colasFD/mixed-analytics-for-data-Science)** – Collection of notebooks exploring diverse datasets for DS practice.
 - 🔹 **[Proyectos_Freelance_DataScience-](https://github.com/N1colasFD/Proyectos_Freelance_DataScience-)** – Real freelance Data Science projects for LATAM clients.
 - 🔹 **[Pruebas_Tecnicas_DS](https://github.com/N1colasFD/Pruebas_Tecnicas_DS)** – Technical tests for Data Science roles.
