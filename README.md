@@ -1,98 +1,162 @@
--                                        👋 Hello world, I’m @N1colasFD 
-                                      👀 Data Science & Bussines Analytic Enthusiast 🚀 
-                                    🧠  Machine learning / Python / Data Eginereering JR
-                           Data Science con orientación al mundo empresarial y negocios en general 
-                para la resolución de problemas y generación de propuestas mediante la analítica de datos.
+<!-- HERO -->
+<h1 align="center">👋 Hey, I'm Nicolás Fajardo Daza</h1>
+
+<p align="center">
+  <b>Data Science Consultant · AI & MLOps · Cloud Data Engineering</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=550&lines=From+raw+data+to+business+decisions;LLMs%2C+ML+models+%26+dashboards+in+production;Cloud+Data+Engineering+%7C+Analytics+%7C+MLOps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:nicolasfajardodaza@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/nicolasfajardodaza/">💼 LinkedIn</a> •
+  <a href="https://github.com/N1colasFD">🐙 GitHub</a>
+</p>
 
 ---
 
-Data Scientist con orientación al mundo empresarial y negocios en general con dos años de experiencia, enfocado en la resolución de problemas y generación de propuestas mediante la analítica de datos. Actualmente en formación como Ingeniero de Datos en la nube ☁️ y liderando un proyecto de migración de datos para una gran compañía de seguros en Colombia.
+## 🧩 About me
+
+- I help teams move **from spreadsheets & chaos to automated data products**.
+- I work end-to-end: **ingestion → cleaning → modeling (ML/LLM) → dashboards → MLOps**.
+- Experience across **marketing, finance, transport, insurance, telecom & public sector**.
+- I enjoy building **LLM/RAG assistants**, **ETL/ELT pipelines** and **analytics for decision-makers**.
+- Based in **Bogotá, Colombia** · English: B1–B2 (improving every day 🚀).
 
 ---
 
-### 📈 Skills & Technologies
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
-![Estadística](https://img.shields.io/badge/Estadística-%2300A9E0.svg?style=flat&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
-![Soft Skills](https://img.shields.io/badge/Soft%20Skills-%23FFD700.svg?style=flat)
-![Profile Views](https://hit.yhype.me/github/profile?user_id=107093919)
+## 🛠 Tech stack
 
+### 🔹 Languages & Data
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![Polars](https://img.shields.io/badge/Polars-0081CB?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![PySpark](https://img.shields.io/badge/PySpark-EE4C2C?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
+![TensorFlow/Keras](https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/> Formación Académica>
-- **Ingeniería en Ciencia de Datos** - Universidad Compensar (2024 actualmente) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/>
-- **Especialización en Analítica de Datos** - Politécnico Colombiano Jaime Isaza Cadavid (2023)
-- **Gestión y Producción de Cine y TV** - Universidad Manuela Beltrán
+### 🔹 Databases & Storage
 
-### 📜 Certificaciones
-- **Google Cloud Fundamentals: Core Infrastructure** - Coursera (2024) [Verificar](https://coursera.org/verify/KLE6XCG5HU5W)
-- **Python Data Science Mastery** - DS4B (2023) [Verificar](./path/to/certificate.pdf)
-- **Curso avanzado de estadística bayesiana con Python** - Pruebas A/B, Métodos de muestreo, Machine Learning Bayesiano
-- **Seminario de Finanzas I: Finanzas Cuantitativas con Python** - Optimización de portafolios financieros
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=flat)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white&style=flat)
 
----
+### 🔹 Cloud, DevOps & MLOps
 
-### 🏢 Experiencia Profesional
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)
 
-**Empresa 1** (FEB-2023 - NOV-2023)
-- **Proyecto POSITIVA**: Transformación y análisis de datos para el sector de Recaudo y Cartera, desarrollo de modelos de Machine Learning.
-- **Proyecto POLITICA**: Análisis de sentimientos y estadísticas descriptivas basadas en datos de redes sociales.
-- **Proyecto CNE**: Visualización de datos financieros en Metabase.
+### 🔹 BI & Automation
 
-**Empresa 2** (NOV-2023 - JUN-2024-Actualidad)
-- **Proyecto POSITIVA SGDA**: Proceso ETL de migración de datos a GCP [80 Terabites] automatizado con Python y PostgreSQL con sistema de versionamiento en Azure DEV OPs, Github e indexado en Apache Solr usando un entorno Linux.
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat)
+![Amazon QuickSight](https://img.shields.io/badge/QuickSight-232F3E?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+![n8n](https://img.shields.io/badge/n8n-EA4B8B?style=flat)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=flat)
 
-**Proyectos Freelance**
-- **Redes Neuronales**: Diseño y construcción de redes neuronales densas.
-- **Embedding**: Análisis de comentarios en redes sociales para la Metrovía de Guayaquil.
-- **Script Finanzas Personales**: Herramientas para gestión financiera personal.
+### 🔹 AI & LLMs
 
----
-
-### 📊 Proyectos Destacados
-- **Organización integral del gobierno de datos** para el sector de Recaudo y Cartera y Rutas de Atención.
-- **Automatización de scripts** para la incorporación de nuevos datos.
-- **Desarrollo de modelos predictivos** como Redes Neuronales, Regresiones y Clustering.
-- **Implementación de tableros interactivos** en Metabase para el control de ingresos y gastos de partidos políticos.
+- LLMs, ChatBots & RAG
+- Text embeddings & NLP (sentiment, topic modeling)
+- AI governance & ethical AI
+- MLOps for deploying and monitoring models
 
 ---
 
-### 📫 Contacto
-- <img src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg" width="30" height="30"/> **Email**: [nicolasfajardodaza@gmail.com](mailto:nicolasfajardodaza@gmail.com)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" /> **LinkedIn**: [Nicolás Fajardo Daza](https://www.linkedin.com/in/nicolasfajardodaza/)
----
+## 🎯 What I’m focused on right now
 
-### 🌟 Acerca de Mí
-Soy un apasionado de la ciencia de datos, siempre en busca de nuevas maneras de transformar grandes volúmenes de datos en información valiosa para la toma de decisiones. Actualmente, estoy liderando un proyecto de migración de datos en el sector asegurador (ARL), aplicando tecnologías avanzadas y metodologías ágiles. Disfruto colaborar en proyectos que impulsen la eficiencia y el crecimiento de las organizaciones.
-
----
-
-### 📷 Mi Trabajo
-![Mi Trabajo](./path/to/image.png)
+- **Cloud Data Engineering** with GCP & Databricks (Delta, MLflow, ETL/ELT).
+- **LLM/RAG agents** to search internal knowledge (PDFs, documents, logs).
+- **Marketing & financial analytics** to optimize campaigns and portfolios.
+- Building **reusable templates** for data migration, dashboards & AI experiments.
 
 ---
 
-#### 📊 GitHub Stats
-<p align="left">
+## 📚 Learning & Certifications
+
+Some recent / ongoing cloud & AI learning:
+
+- Google Cloud – Core Infrastructure, Kubernetes, AlloyDB & Data Engineer preparation.
+- Specialization in **Artificial Intelligence** and **Data Science Engineering** (in progress).
+- Bayesian statistics & quantitative finance with Python.
+
+---
+
+## 📌 Selected public repositories
+
+Here are a few repos that represent the kind of work I like to do:
+
+- 🔹 **[data_for_databrikcs](https://github.com/N1colasFD/data_for_databrikcs)** – Public datasets ready to use on Databricks for ML and analytics experiments.
+- 🔹 **[Unir_CODES](https://github.com/N1colasFD/Unir_CODES)** – Jupyter notebooks from my AI specialization: ML, NLP, optimization and more.
+- 🔹 **[Data_science_aplicada_reto_twitter](https://github.com/N1colasFD/Data_science_aplicada_reto_twitter)** – Data Science practice solving a Twitter/football challenge.
+- 🔹 **[calculo_proba_3ce_mestre](https://github.com/N1colasFD/calculo_proba_3ce_mestre)** – Probability & statistics applied to real datasets (third-semester final project).
+- 🔹 **[mixed-analytics-for-data-Science](https://github.com/N1colasFD/mixed-analytics-for-data-Science)** – Collection of notebooks exploring diverse datasets for DS practice.
+- 🔹 **[Proyectos_Freelance_DataScience-](https://github.com/N1colasFD/Proyectos_Freelance_DataScience-)** – Real freelance Data Science projects for LATAM clients.
+- 🔹 **[Pruebas_Tecnicas_DS](https://github.com/N1colasFD/Pruebas_Tecnicas_DS)** – Technical tests for Data Science roles.
+
+> 🔍 I also keep several private repos with production code for ETL, migrations (80TB+), LLM/RAG and analytics dashboards.
+
+---
+
+## 🔎 Professional experience (high-level)
+
+<details>
+  <summary>Click to see more about my experience</summary>
+
+- Led **large-scale data migrations** (80TB+ unstructured data) from on-premise to cloud.
+- Designed **end-to-end ML solutions**: from data ingestion to predictive models in production.
+- Built **RAG assistants** and chatbots to search long documents, legal texts and support teams.
+- Created **interactive BI dashboards** for finance, marketing, public sector and transport.
+- Worked closely with **stakeholders, managers and non-technical teams** to translate business needs into data products.
+
+</details>
+
+---
+
+## 🤝 How to collaborate with me
+
+- Build an **analytics or AI MVP** for your business.
+- Design and implement **data migration + monitoring** for legacy systems.
+- Develop **ML/LLM prototypes** that solve specific business problems.
+- Review, refactor or extend existing **Python / SQL / Databricks** projects.
+
+If you have an idea that mixes **data, AI and business impact**, ping me on  
+📧 **nicolasfajardodaza@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/nicolasfajardodaza/)**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=N1colasFD&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1colasFD&layout=compact&theme=merko" alt="Top Languages " />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1colasFD&theme=merko" alt="Streak Stats" />
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1colasFD&theme=radical" alt="Profile Summary" style="max-width: 150%;" />
-</p>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=N1colasFD&color=blueviolet" alt="Profile Views" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1colasFD&layout=compact&theme=merko" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1colasFD&theme=merko" alt="GitHub Streak" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1colasFD&theme=radical" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=N1colasFD&color=blueviolet" alt="Profile Views Counter" />
+</p>
+
 
 <!---
 N1colasFD/N1colasFD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
